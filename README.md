@@ -30,7 +30,7 @@ git clone https://github.com/RRSF95/frontend-mentor-profile-card-component.git
 
 Caso queira somente visualizar a página, pode visitar o link abaixo:
 
-https://rrsf95.github.io/quest-css-html-avancado/
+https://rrsf95.github.io/frontend-mentor-profile-card-component/
 ## STATUS DO PROJETO 🏆
 O projeto já está finalizado.
 
