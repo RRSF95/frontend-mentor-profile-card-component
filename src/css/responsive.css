@@ -1,0 +1,17 @@
+@media(max-width: 680px) {
+    body{
+        background-position: top -489px left -689px, bottom -489px right -689px;
+    }
+}
+
+@media(max-width: 376px) {
+    .card .avatar{
+        transform: translateY(100%);
+    }
+}
+
+@media(max-width: 360px) {
+    .card .avatar{
+        transform: translateY(110%);
+    }
+}
